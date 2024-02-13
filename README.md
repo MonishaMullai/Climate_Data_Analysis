@@ -6,7 +6,7 @@ This data analysis project focuses on analyzing climate data to gain insights in
 
 ## Dataset
 
-The dataset used for this project is sourced from [here](https://www.kaggle.com/datasets/die9origephit/temperature-data-albany-new-york)). It contains historical climate data, including temperature, precipitation, and other relevant variables. The dataset spans multiple years and covers various geographical locations, providing a comprehensive view of climatic conditions.
+The dataset used for this project is sourced from [here](https://www.kaggle.com/datasets/die9origephit/temperature-data-albany-new-york). It contains historical climate data, including temperature, precipitation, and other relevant variables. The dataset spans multiple years and covers various geographical locations, providing a comprehensive view of climatic conditions.
 
 ## Code Overview
 
